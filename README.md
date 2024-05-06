@@ -46,9 +46,14 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
+![326726773-e84ab7e7-d184-40ba-9c82-1b497e8b30f1](https://github.com/syedfayaz3105/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/147144126/07ef96a9-8eb7-453b-991e-c6aad24150ef) 
+![326726820-94f35e63-855e-4308-8bfc-bdee3fc66767](https://github.com/syedfayaz3105/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/147144126/989b8e2e-d62c-4582-b98e-0a8f4df5cebb)
+![326726845-a39113c4-3e4a-486a-b1e3-e991b5c7ff49](https://github.com/syedfayaz3105/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/147144126/c0689f58-ea44-4648-86e5-e78af28e73c8)
 
-### Name:
-### Register Number:
+
+
+### Name: FARHANA H
+### Register Number:212223230057
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
